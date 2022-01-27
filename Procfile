@@ -1,1 +1,1 @@
-worker: python -m renamer
+web: python -m renamer
